@@ -6,6 +6,7 @@ A fully functional Random Secrets Teller website.
 - Import express and axios
 -  Create an express app and set the port number.
 -  Use the public folder for static files.
+-  When the user goes to the home page it should render the index.ejs file.
 
 # Technology Used
 - JavaScript
