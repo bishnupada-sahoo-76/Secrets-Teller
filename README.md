@@ -5,7 +5,7 @@ A fully functional Random Secrets Teller website.
 # Steps  
 - Import express and axios
 -  Create an express app and set the port number.
--   Create a txt file to save the user input using the native fs node module.
+-  Use the public folder for static files.
 
 # Technology Used
 - JavaScript
