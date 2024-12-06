@@ -10,11 +10,10 @@ A fully functional Random Secrets Teller website.
 -  Use axios to get a random secret and pass it to index.ejs to display the ecret and the username of the secret.
 -  isten on your predefined port and start the server.
    
-   
-   
-
 # Technology Used
+- CSS
 - JavaScript
+- Embedded JavaScript(EJS)
 - npm
   
 ---
