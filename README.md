@@ -19,6 +19,6 @@ A fully functional Random Secrets Teller website.
 ---
 To run this code on terminal use this
 - npm install
-- nodemon solution.js
+- node solution.js
   
   
