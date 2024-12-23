@@ -15,7 +15,6 @@ A fully functional Random Secrets Teller website.
 - JavaScript
 - Embedded JavaScript(EJS)
 - npm
-  
 ---
 To run this code on terminal use this
 - npm install
